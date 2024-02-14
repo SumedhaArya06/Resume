@@ -54,7 +54,7 @@ with tab1:
 Analytics manager
 """
         EMAIL = "aryasumedha06@gmail.com"
-        CONTACT = "+91 9871968308"
+        CONTACT = "+91 9560774981"
         LinkedIn = {
         "LinkedIn": "https://linkedin.com",
 }
